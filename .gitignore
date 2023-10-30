@@ -7,3 +7,7 @@ weights
 build/
 *.egg-info/
 gradio_cached_examples
+models/FastSAM-s.pt
+models/FastSAM-x.pt
+images/
+output/
